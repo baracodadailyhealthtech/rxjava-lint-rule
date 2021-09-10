@@ -1,0 +1,4 @@
+rootProject.name = "RxRules"
+
+include ':app'
+include ':lint-rules'
